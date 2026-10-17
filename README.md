@@ -1,6 +1,7 @@
 # Decision Logic Interpretable Framework for Deepfake Detection
 This repository contains scripts for training GenX-Net and DLIM, along with the corresponding data generators.
-- **Trainer_1.py**The main training script for GenX-Net.  
+- **Trainer_1.py**
+  The main training script for GenX-Net.  
   
 - **Image_preprocess_1.py**  
   Implements the data generator for loading and preprocessing images used to train and validate GenX-Net.  
